@@ -33,5 +33,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            arianaaguado/practica_7.1:latest
+            arianaaguado1/practica_7.1:latest
             ghcr.io/arianaaguado/practica_7.1:latest
